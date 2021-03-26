@@ -1,3 +1,10 @@
+Install recommended VScode extensions
+
+Run `yarn`
+
+Prettier and stylelint runs on save
+
+
 Package installed:
 
 - prettier
@@ -6,6 +13,7 @@ Package installed:
 - stylelint-scss (stylelint plugin)
 - stylelint-config-prettier (stylelint config)
 - stylelint-config-rational-order (stylelint config)
+
 
 Add stylelint standard config if you like
 
